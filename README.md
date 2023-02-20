@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Email: chanbin.backend@gmail.com
+Email: chanbin.backend@gmail.com </br>
 Blog: https://green-bin.tistory.com
 
 
