@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Email: chanbin.backend@gmail.com </br>
+Portfolio: https://url.kr/kcw48a </br>
 Blog: https://green-bin.tistory.com
 
 
