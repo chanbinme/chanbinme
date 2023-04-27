@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Email: chanbin.backend@gmail.com </br>
-Portfolio: https://url.kr/kcw48a </br>
+Portfolio: https://chanbinme.github.io/resume-nextjs/ </br>
 Blog: https://green-bin.tistory.com
 
 
