@@ -2,7 +2,7 @@
 
 Email: chanbin.backend@gmail.com </br>
 Portfolio: https://chanbinme.github.io/resume-nextjs/ </br>
-Blog: https://green-bin.tistory.com
+Blog: https://green-bin.tistory.com </br>
 Notion: https://url.kr/kes7vi
 
 
