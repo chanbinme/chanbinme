@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Email: chanbin.backend@gmail.com </br>
-Portfolio: https://buly.kr/1c8H50D </br>
+Portfolio: [https://www.rallit.com](https://www.rallit.com/resumes/69060@gksmfcksqls/%EA%B9%80%EC%B0%AC%EB%B9%88) </br>
 Blog: https://green-bin.tistory.com </br>
 
 
