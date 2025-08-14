@@ -18,3 +18,4 @@ Blog: https://green-bin.tistory.com </br>
 
 ### 2. Spring Security <a href="https://github.com/spring-projects/spring-security/tree/main"><img src="https://github.com/user-attachments/assets/57af4ca8-3fe9-4edb-a9c3-a39ec4cb2529" alt="Spring Security" width="18" height="18">
 - **[#17251](https://github.com/spring-projects/spring-security/pull/17251)**: Add null check for authentication token in JwtAuthenticationProvider.
+- **[#17247](https://github.com/spring-projects/spring-security/pull/17247)**: Improve authoritiesClaimName validation in JwtGrantedAuthoritiesConverter.
